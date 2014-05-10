@@ -1,3 +1,6 @@
+    Winner of the IEEE Developer Days Google Glass Hackathon of 2014
+    Original repo: [https://github.com/susomena/ParkingGlass](https://github.com/susomena/ParkingGlass)
+
 ParkingGlass
 ============
 
